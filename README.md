@@ -63,3 +63,27 @@ Input: Enter your choice: 5
 Output: Exiting program...
 # Run
 python day3.py
+
+# day 4
+# Description
+A basic Python project that analyzes system log messages and counts different log types like ERROR, INFO, and WARNING. It also finds the most frequent log type while ignoring case sensitivity.
+# Features
+Count ERROR logs
+Count INFO logs
+Count WARNING logs
+Find the most frequent log type
+Ignore case sensitivity using string processing
+##  Example
+Input : logs = [
+    "ERROR DISK FULL",
+    "INFO STARTED",
+    "ERROR FILE MISSING",
+    "WARNING MEMORY LOW"
+]
+Output:
+ERROR Count: 2
+INFO Count: 1
+WARNING Count: 1
+Most Frequent Log Type: ERROR
+# Run
+python day4.py
