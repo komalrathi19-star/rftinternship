@@ -87,3 +87,13 @@ WARNING Count: 1
 Most Frequent Log Type: ERROR
 # Run
 python day4.py
+# day 5
+# Description:
+A simple Python program to read and process CSV files without using the Pandas library.
+# Features:
+Reads CSV file data
+Stores data in list of dictionaries
+Uses file handling and string splitting
+Beginner-friendly Python project
+# Run 
+python day5.py
