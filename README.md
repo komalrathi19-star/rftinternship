@@ -113,3 +113,18 @@ Python
 Pandas
 # Run 
 python day6.py
+# day 7
+# Description
+A simple Python project using Pandas to analyze student marks and generate a performance dashboard.
+# Features
+Create and manage student data using DataFrame
+Calculate average marks of each student
+Find the topper of the class
+Count students scoring above overall average
+Add grade column based on performance
+Calculate subject-wise average marks
+🛠️ Technologies Used
+Python
+Pandas
+# Run
+python day7.py
