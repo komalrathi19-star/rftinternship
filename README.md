@@ -128,3 +128,17 @@ Python
 Pandas
 # Run
 python day7.py
+# day 8
+# Description
+This project analyzes employee salary data using Python and Pandas.
+It demonstrates the use of Grouping and Aggregation (groupby) operations for data analysis.
+# Features
+Find average salary per department
+Find highest paid employee in each department
+Count employees department-wise
+Sort departments based on average salary
+🛠️ Technologies Used
+Python
+Pandas
+# Run
+python day8.py
