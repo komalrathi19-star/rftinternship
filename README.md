@@ -142,3 +142,20 @@ Python
 Pandas
 # Run
 python day8.py
+# day 9
+# Description
+This project is a simple Data Filtering Tool built using Python and Pandas.
+It demonstrates how to filter data from a dataset using multiple conditions.
+The program filters employees whose:
+Salary is greater than 50000
+Age is less than 30
+Filtered results are displayed and also saved into a new CSV file.
+# Features
+Create and manage dataset using Pandas
+Apply Boolean Filtering
+Use multiple conditions together
+Display filtered records
+Save filtered data into a new CSV file
+🛠️ Technologies Used
+Python
+Pandas
