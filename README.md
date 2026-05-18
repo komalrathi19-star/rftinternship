@@ -182,3 +182,18 @@ WARNING Count: 1
 Most Frequent Log Type: ERROR
 # Run
 python day10.py
+# day 11
+# Description
+This project is a simple Sales Trend Visualization created using Python and Matplotlib.
+It displays daily sales data using a line chart and highlights the highest and lowest sales days.
+# Features
+Line plot using Matplotlib
+Time-series sales visualization
+Highlights highest and lowest sales
+Added labels, title, and grid
+Simple trend analysis
+# Technologies Used
+Python
+Matplotlib
+# Run
+python day11.py
