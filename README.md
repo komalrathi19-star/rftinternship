@@ -197,3 +197,22 @@ Python
 Matplotlib
 # Run
 python day11.py
+# day 12
+# Description
+# Student Performance Dashboard 📊
+
+A simple Python project to visualize student marks using bar charts and grouped bar charts with Matplotlib.
+
+# 🚀 Features
+- Simple Bar Chart of student marks
+- Comparative Visualization
+- Grouped Bar Chart for multiple subjects
+- Marks displayed on bars
+
+# 🛠️ Technologies Used
+- Python
+- Matplotlib
+- NumPy
+
+# Run
+python day12.py
