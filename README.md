@@ -216,3 +216,19 @@ A simple Python project to visualize student marks using bar charts and grouped 
 
 # Run
 python day12.py
+# day 13
+# Description
+📌 Project Overview
+This project performs Distribution Analysis using Python and Seaborn.
+It visualizes student marks data with a Histogram and KDE Curve to understand data distribution and identify skewness.
+# 🚀 Features
+Histogram Visualization
+KDE (Kernel Density Estimation) Curve
+Distribution Understanding
+Skewness Identification
+# 🛠 Technologies Used
+Python
+Pandas
+Matplotlib
+Seaborn
+
