@@ -231,4 +231,21 @@ Python
 Pandas
 Matplotlib
 Seaborn
+# day 14
+# Description
+This project visualizes expense distribution using a Pie Chart in Python.
+
+# Concepts Used
+- Pie Chart Visualization
+- Percentage Labels
+- Highlighting Highest Category
+
+# Dataset
+- Food: 500
+- Travel: 300
+- Shopping: 200
+
+# Libraries Used
+- Matplotlib
+
 
