@@ -247,5 +247,6 @@ This project visualizes expense distribution using a Pie Chart in Python.
 
 # Libraries Used
 - Matplotlib
-
+# Run
+python day13.py
 
