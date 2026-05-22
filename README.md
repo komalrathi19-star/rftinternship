@@ -249,4 +249,22 @@ This project visualizes expense distribution using a Pie Chart in Python.
 - Matplotlib
 # Run
 python day13.py
+# day 15
+# Description
 
+This project is a Mini EDA Dashboard created using Python.
+
+##Features
+- Line Chart for Trend Analysis
+- Bar Chart for Comparison
+- Histogram for Distribution
+- Insights Generation
+- Subplots Visualization
+
+# Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- # Run
+- python day15.py
