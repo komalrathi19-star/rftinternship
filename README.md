@@ -268,3 +268,23 @@ This project is a Mini EDA Dashboard created using Python.
 - Seaborn
 - # Run
 - python day15.py
+# day 16
+# Description
+This project performs Exploratory Data Analysis (EDA) on a sales dataset using Python.
+The analysis includes data cleaning, aggregation, visualization, and business insight generation.
+# Features
+-Handle missing values
+-Product-wise sales analysis
+-Region-wise performance analysis
+-Sales trend visualization
+-Top product identification
+-Monthly growth analysis
+-Best performing region detection
+## Technologies Used
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
+# Run 
+python day16.py
