@@ -288,3 +288,22 @@ The analysis includes data cleaning, aggregation, visualization, and business in
 -Seaborn
 # Run 
 python day16.py
+# day 17
+# Description
+Customer Segmentation Analysis is a data analysis project that groups customers based on their spending behavior and visit frequency.
+The project helps businesses identify high-value customers, low-engagement users, and create targeted marketing strategies.
+# Features
+Customer grouping based on spending levels
+Identification of:
+High-value customers
+Low-engagement users
+Spending distribution visualization
+Customer category visualization
+Business strategy suggestions
+Simple segmentation (High / Medium / Low)
+# Technologies Used
+Python
+Pandas
+Matplotlib
+# Run
+python day17.py
