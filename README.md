@@ -339,3 +339,17 @@ Movie Rating
 Revenue
 # Run
 python day18.py
+#  day 19
+# Description
+This project performs Stock Market Time-Series Analysis using Python.
+It analyzes stock prices over time, calculates moving averages, identifies peaks and drops, and visualizes stock trends using graphs.
+The project helps understand:
+Time-Series Analysis
+Trend Detection
+Moving Average
+Volatility Detection
+Data Visualization
+## 🛠 Technologies Used
+Python
+Pandas
+Matplotlib
