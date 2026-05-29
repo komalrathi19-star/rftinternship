@@ -353,3 +353,23 @@ Data Visualization
 Python
 Pandas
 Matplotlib
+# day 20
+# Description
+A complete Data Analysis and Visualization project built using Python, Pandas, and Matplotlib.
+# 🚀 Features
+✔ Cleaned and processed sales dataset
+✔ Calculated total sales
+✔ Analyzed sales region-wise
+✔ Identified top-selling product category
+✔ Created:
+
+Pie Chart
+Bar Chart
+Dashboard-style visualization
+
+✔ Generated business insights from data
+
+# 📂 Technologies Used
+Python
+Pandas
+Matplotlib
