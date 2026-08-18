@@ -366,6 +366,23 @@ A complete Data Analysis and Visualization project built using Python, Pandas, a
 Pie Chart
 Bar Chart
 Dashboard-style visualization
+# day 21
+
+## description
+This project focuses on using Python functions with *args, **kwargs, and return values.
+## Tasks
+Check whether a number is prime.
+Find the largest number using *args.
+Display student details using **kwargs.
+Calculate maximum, minimum, average, and sum of numbers.
+## Concepts Used
+Functions
+*args and **kwargs
+Loops & conditions
+max(), min(), sum(), len()
+## How to run
+python Day 21.py
+
 
 ✔ Generated business insights from data
 
