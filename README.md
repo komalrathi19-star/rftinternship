@@ -390,3 +390,20 @@ python Day 21.py
 Python
 Pandas
 Matplotlib
+#📌 Description
+A Python-based Sales & Customer Insights Dashboard that analyzes sales data from a CSV dataset. It cleans the data, calculates sales metrics, identifies top customers and products, and generates visual insights through charts.
+##✨ Features
+Data cleaning and duplicate removal
+Missing-value handling
+Total sales calculation
+Average revenue calculation
+Top 5 customers identification
+Top 5 products analysis
+Sales trend visualization
+Category-wise sales distribution
+5 business insights generation
+##🛠️ Technologies
+Python
+Pandas – data cleaning and analysis
+Matplotlib – data visualization
+CSV – dataset format
