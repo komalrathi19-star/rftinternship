@@ -390,6 +390,7 @@ python Day 21.py
 Python
 Pandas
 Matplotlib
+#day22
 #📌 Description
 A Python-based Sales & Customer Insights Dashboard that analyzes sales data from a CSV dataset. It cleans the data, calculates sales metrics, identifies top customers and products, and generates visual insights through charts.
 ##✨ Features
@@ -407,3 +408,26 @@ Python
 Pandas – data cleaning and analysis
 Matplotlib – data visualization
 CSV – dataset format
+#day23
+##📌 Description
+The Employee Performance Analytics System is a Python-based data analysis project that analyzes employee performance and attendance data using a CSV dataset.
+The project calculates department-wise performance, identifies the top-performing employees, detects employees with attendance below 75%, generates visualizations, and exports the final report as a CSV file.
+An interactive Streamlit dashboard is also included as a bonus feature.
+##✨ Features
+📥 Import employee data from CSV
+🧹 Remove duplicate and missing records
+📊 Calculate department-wise average performance
+🏆 Identify Top 10 performers
+⚠️ Find employees with attendance below 75%
+📊 Generate Performance Comparison Chart
+📈 Generate Attendance Trend
+🥧 Generate Department Distribution chart
+📁 Export final employee report as CSV
+🎛️ Interactive department filter using Streamlit
+📥 Download filtered data from the dashboard
+#🛠️ Technologies Used
+Python
+Pandas – Data cleaning and analysis
+Matplotlib – Data visualization
+Streamlit – Interactive dashboard
+CSV – Dataset and report format
