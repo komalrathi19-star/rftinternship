@@ -431,3 +431,150 @@ Pandas – Data cleaning and analysis
 Matplotlib – Data visualization
 Streamlit – Interactive dashboard
 CSV – Dataset and report format
+#day24
+
+##📌 Description
+
+The Weather Data Analytics System is a Python-based project that analyzes weather information stored in a CSV file. It calculates temperature statistics, identifies the hottest and coldest cities, counts rainy and sunny days, generates visualizations, and exports the final analysis report.
+
+The project also includes a Moving Average Prediction feature to estimate tomorrow's temperature and an optional Streamlit dashboard for interactive analysis.
+
+##✨ Features
+
+- 📂 Read weather data from a CSV file
+- 🌡️ Calculate average temperature for each city
+- 🔥 Identify the hottest city
+- ❄️ Identify the coldest city
+- 🌧️ Count rainy days
+- ☀️ Count sunny days
+- 📈 Generate temperature trend visualization
+- 🌦️ Generate weather distribution chart
+- 📊 Generate average temperature per city chart
+- 🔮 Predict tomorrow's temperature using Moving Average
+- 📥 Export the final report as a CSV file
+- 🖥️ Interactive Streamlit dashboard
+
+##🛠️ Technologies Used
+
+- Python
+- Pandas – Data processing and analysis
+- Matplotlib – Data visualization
+- Streamlit – Interactive dashboard
+
+##📁 Project Structure
+
+Weather-Data-Analytics/
+│
+├── weather_data.csv
+├── weather_analytics.py
+├── app.py
+├── temperature_trend.png
+├── weather_distribution.png
+├── average_temperature_city.png
+├── weather_final_report.csv
+└── README.md
+
+##📊 CSV Dataset Format
+
+The input CSV file should contain the following columns:
+
+Column| Description
+Date| Date of weather observation
+City| Name of the city
+Temperature| Temperature in Celsius
+Weather| Weather condition such as Sunny, Rainy, Cloudy
+
+##Example:
+
+Date,City,Temperature,Weather
+2026-08-01,Delhi,35,Sunny
+2026-08-02,Delhi,33,Rainy
+2026-08-03,Delhi,36,Sunny
+
+##🚀 Installation
+
+Install the required Python libraries:
+
+pip install pandas matplotlib streamlit
+
+##▶️ How to Run
+
+Run Python Analytics
+
+python weather_analytics.py
+
+This will:
+
+1. Read the CSV dataset.
+2. Analyze temperature and weather conditions.
+3. Generate charts.
+4. Predict tomorrow's temperature.
+5. Create "weather_final_report.csv".
+
+Run Streamlit Dashboard
+
+streamlit run app.py
+
+Upload your "weather_data.csv" file in the dashboard to view the analysis interactively.
+
+🔮 Moving Average Prediction
+
+The project uses a 3-day moving average to predict tomorrow's temperature.
+
+The prediction is calculated using:
+
+Predicted Temperature =
+Average of the latest 3 daily temperatures
+
+This provides a simple way to estimate the next day's temperature based on recent observations.
+
+📈 Visualizations
+
+The project generates:
+
+1. Temperature Trend
+
+Shows how the average temperature changes over time.
+
+2. Weather Distribution
+
+Displays the number of days for each weather condition.
+
+3. Average Temperature per City
+
+Compares the average temperature of different cities.
+
+##📤 Output
+
+The project generates a final CSV report:
+
+weather_final_report.csv
+
+The report contains:
+
+- City
+- Average Temperature
+- Hottest City
+- Hottest Temperature
+- Coldest City
+- Coldest Temperature
+- Rainy Days
+- Sunny Days
+- Predicted Tomorrow Temperature
+
+##🎯 Learning Outcomes
+
+Through this project, we learn:
+
+- CSV data handling
+- Data cleaning and processing
+- Pandas "groupby()" operations
+- Statistical calculations
+- Data visualization with Matplotlib
+- Moving Average
+- CSV report generation
+- Streamlit dashboard development
+
+#⭐ Conclusion
+
+The Weather Data Analytics System demonstrates how Python can be used to transform raw weather data into meaningful insights through data analysis, visualization, prediction, and interactive dashboards.
