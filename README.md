@@ -578,3 +578,24 @@ Through this project, we learn:
 #⭐ Conclusion
 
 The Weather Data Analytics System demonstrates how Python can be used to transform raw weather data into meaningful insights through data analysis, visualization, prediction, and interactive dashboards.
+# day 25
+##📌 Description
+The Fraud Detection & Transaction Analysis System is a Python-based data analysis project designed to analyze financial transactions and identify potentially suspicious activities.
+The system reads transaction data from a CSV file, detects duplicate and high-value transactions, identifies frequently active accounts, calculates a risk score, generates visualizations, and exports suspicious transactions into a separate CSV file.
+##✨ Features
+📂 Read transaction data from CSV
+🔍 Detect duplicate transactions
+💰 Identify high-value transactions
+👤 Find accounts with frequent transactions
+⚠️ Calculate a risk score for transactions
+🚨 Classify transactions into Low, Medium, and High Risk
+📊 Generate transaction category chart
+📈 Generate daily transaction trend
+💵 Display Top 10 highest-value transactions
+📁 Export suspicious transactions to CSV
+📋 Display transaction analysis summary
+@@🛠️ Technologies Used
+Python
+Pandas – Data processing and analysis
+Matplotlib – Data visualization
+CSV – Transaction data
