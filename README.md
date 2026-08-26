@@ -599,3 +599,30 @@ Python
 Pandas – Data processing and analysis
 Matplotlib – Data visualization
 CSV – Transaction data
+#day26
+##📄 AI Resume Screening Tool
+##📌 Description
+The AI Resume Screening Tool is a Python-based application that automatically analyzes multiple resumes and compares them with a given Job Description (JD).
+It extracts important candidate information such as Name, Skills, Experience, and Education, calculates a Resume Match Score, ranks candidates according to their scores, identifies missing skills, and exports shortlisted candidates into a CSV file.
+The project also includes a Streamlit interface for easy resume uploading and screening.
+##✨ Features
+📂 Read multiple TXT resume files
+👤 Extract candidate names
+🛠️ Extract technical skills
+💼 Extract work experience
+🎓 Extract education details
+📋 Analyze Job Description
+🔍 Match candidate skills with required skills
+📊 Calculate Resume Match Score
+🏆 Rank candidates
+❌ Highlight missing skills
+✅ Shortlist candidates based on score
+📥 Export shortlisted candidates to CSV
+🌐 Streamlit web interface
+##🛠️ Technologies Used
+Python
+Pandas
+Regular Expressions (Regex)
+Streamlit
+CSV
+TXT Files
