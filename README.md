@@ -661,3 +661,255 @@ A Python project that analyzes stock portfolio data and calculates investment pe
 * Interactive Streamlit dashboard
 ##  Technologies Used
 * Python
+#day29
+##🧾 Automated Invoice Processing System
+
+##📌 Overview
+
+The Automated Invoice Processing System is a Python-based application that processes invoice data and generates a consolidated invoice report.
+
+The system reads invoice information from CSV files, calculates the total invoice amount, identifies overdue invoices, generates summary information, and provides a Streamlit interface for easy interaction.
+
+---
+
+##🎯 Objectives
+
+- Read invoice data from CSV files
+- Extract invoice number and customer details
+- Process invoice and due dates
+- Calculate total invoice amount
+- Identify overdue invoices
+- Generate a consolidated invoice report
+- Export the final report as CSV
+- Provide an interactive Streamlit dashboard
+
+---
+
+##🚀 Features
+
+1. Invoice Data Processing
+
+The system reads invoice data containing:
+
+- Invoice Number
+- Customer Name
+- Customer Email
+- Invoice Date
+- Due Date
+- Item
+- Quantity
+- Price
+
+2. Total Amount Calculation
+
+The total amount is calculated automatically using:
+
+Total Amount = Quantity × Price
+
+3. Overdue Invoice Detection
+
+The system compares the invoice due date with the current date.
+
+Invoices whose due date has already passed are marked as:
+
+Overdue
+
+Other invoices are marked as:
+
+Pending
+
+4. Consolidated Report
+
+The processed invoice information is displayed in a consolidated table containing invoice details, total amount, and payment status.
+
+5. Summary Report
+
+The application displays:
+
+- Total number of invoices
+- Total invoice amount
+- Number of overdue invoices
+- Number of pending invoices
+
+6. CSV Export
+
+The final consolidated invoice report can be downloaded as a CSV file.
+
+7. Streamlit Interface
+
+A simple Streamlit dashboard allows users to upload an invoice CSV file and view the processed results interactively.
+
+---
+
+##🛠️ Technologies Used
+
+- Python
+- Pandas
+- Streamlit
+- CSV
+- Datetime
+
+##⚙️ Installation
+
+Step 1: Clone the repository
+
+git clone <your-github-repository-url>
+
+Step 2: Open the project folder
+
+cd Automated-Invoice-Processing
+
+Step 3: Install dependencies
+
+pip install -r requirements.txt
+
+---
+
+##▶️ How to Run
+
+Run the Streamlit application using:
+
+streamlit run app.py
+
+The application will open in your browser.
+
+
+
+##📈 Output
+
+The system generates a consolidated report containing:
+
+Invoice Number| Customer| Item| Quantity| Price| Total Amount| Status
+INV001| Rahul Sharma| Laptop| 1| 55000| 55000| Overdue
+INV002| Priya Singh| Mouse| 2| 800| 1600| Pending
+
+---
+
+##⭐ Bonus Features
+
+Possible future improvements include:
+
+- Automated PDF invoice extraction
+- OCR-based invoice processing
+- Automatic email notifications for overdue invoices
+- Multiple-item invoice support
+- Invoice analytics dashboard
+- Database integration
+- Automatic PDF report generation
+- AI-based invoice information extraction
+#day30
+#🧾 Automated Invoice Processing System
+
+#📌 Overview
+
+The Automated Invoice Processing System is a Python-based application that processes invoice data and generates a consolidated invoice report.
+
+The system reads invoice information from CSV files, calculates the total invoice amount, identifies overdue invoices, generates summary information, and provides a Streamlit interface for easy interaction.
+
+---
+
+#🎯 Objectives
+
+- Read invoice data from CSV files
+- Extract invoice number and customer details
+- Process invoice and due dates
+- Calculate total invoice amount
+- Identify overdue invoices
+- Generate a consolidated invoice report
+- Export the final report as CSV
+- Provide an interactive Streamlit dashboard
+
+---
+
+#🚀 Features
+
+1. Invoice Data Processing
+
+The system reads invoice data containing:
+
+- Invoice Number
+- Customer Name
+- Customer Email
+- Invoice Date
+- Due Date
+- Item
+- Quantity
+- Price
+
+2. Total Amount Calculation
+
+The total amount is calculated automatically using:
+
+Total Amount = Quantity × Price
+
+3. Overdue Invoice Detection
+
+The system compares the invoice due date with the current date.
+
+Invoices whose due date has already passed are marked as:
+
+Overdue
+
+Other invoices are marked as:
+
+Pending
+
+4. Consolidated Report
+
+The processed invoice information is displayed in a consolidated table containing invoice details, total amount, and payment status.
+
+5. Summary Report
+
+The application displays:
+
+- Total number of invoices
+- Total invoice amount
+- Number of overdue invoices
+- Number of pending invoices
+
+6. CSV Export
+
+The final consolidated invoice report can be downloaded as a CSV file.
+
+7. Streamlit Interface
+
+A simple Streamlit dashboard allows users to upload an invoice CSV file and view the processed results interactively.
+
+---
+
+#🛠️ Technologies Used
+
+- Python
+- Pandas
+- Streamlit
+- CSV
+- Datetime
+
+
+
+#⚙️ Installation
+
+Step 1: Clone the repository
+
+git clone <your-github-repository-url>
+
+Step 2: Open the project folder
+
+cd Automated-Invoice-Processing
+
+Step 3: Install dependencies
+
+pip install -r requirements.txt
+
+---
+
+
+#📈 Output
+
+The system generates a consolidated report containing:
+
+Invoice Number| Customer| Item| Quantity| Price| Total Amount| Status
+INV001| Rahul Sharma| Laptop| 1| 55000| 55000| Overdue
+INV002| Priya Singh| Mouse| 2| 800| 1600| Pending
+
+
