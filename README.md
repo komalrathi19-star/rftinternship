@@ -626,3 +626,38 @@ Regular Expressions (Regex)
 Streamlit
 CSV
 TXT Files
+# DAY 27 
+## Description
+Python project that analyzes social media data to find trending hashtags, active users, engagement, popular posting times, and content categories.
+## Features
+Top 5 Trending Hashtags
+Most Active Users
+Engagement Analysis
+Popular Posting Time
+Daily Engagement Trend
+Content Category Distribution
+Sentiment Analysis
+CSV Analytics Report
+Streamlit Dashboard with Search & Filters
+## Technologies
+Python
+Pandas
+Matplotlib
+TextBlob
+Streamlit
+## Run
+day27.py
+# Day 28
+A Python project that analyzes stock portfolio data and calculates investment performance, profit/loss, portfolio returns, and sector-wise investments.
+## Features
+* Calculate investment for each stock
+* Calculate Profit/Loss
+* Identify best and worst performing stocks
+* Calculate overall portfolio return
+* Generate portfolio growth chart
+* Generate sector-wise investment chart
+* Analyze daily returns
+* Predict next-day trend using Moving Average
+* Interactive Streamlit dashboard
+##  Technologies Used
+* Python
